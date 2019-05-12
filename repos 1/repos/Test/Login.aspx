@@ -14,7 +14,7 @@
             <br />
            <br />
             
-             <asp:Button ID="Button1" runat="server" Text="Show" OnClick="Button1_Click" />
+             <asp:Button ID="Button1" runat="server" Text="Welcome Text" OnClick="Button1_Click" />
         </div>
         <br />
         <div>
